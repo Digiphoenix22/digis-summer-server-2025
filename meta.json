@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.0.0",
+      "releaseDate": "2025-05-27",
+      "updateMessage": "First release of Digi's Summer Server 2025!\nIncludes Apotheosis World Tiers, custom KubeJS recipes, and more.",
+      "downloadUrl": "https://www.curseforge.com/minecraft/modpacks/digis-summer-server-2025/files/"
+    }
+  ]
+}
